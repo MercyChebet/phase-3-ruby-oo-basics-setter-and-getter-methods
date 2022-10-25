@@ -1,5 +1,5 @@
 class Dog
-    #getter
+    #setter
     def name=(name)
         @name = name
     end
